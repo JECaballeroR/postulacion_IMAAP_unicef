@@ -18,7 +18,7 @@ st.markdown("""Como consideraciones generales:
 - El Dashboard se realizó en streamlit, principalmente por ser un framework de desarrollo rápido.
 - El tiempo de trabajo en la prueba se limitó a las "4 o 6 horas" sugeridas en la llamada de notificación de la misma el día 15/09/2022
     - Por lo anterior, se limitó la limpieza de los datos y el tiempo al diseño de la solución a al mínimo viable
-- Se asumen ciertos elementos
+- Se asumen ciertos elementos de los datos (que es tipo, que es sector, etc...), dado una revisión de qué es el código y lectura de las notas en los archivos.
 
 """)
 
